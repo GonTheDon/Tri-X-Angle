@@ -1,5 +1,2 @@
-# Force www → non-www
 https://www.trixangle.in/* https://trixangle.in/:splat 301
-
-# SPA fallback
 /* /index.html 200
